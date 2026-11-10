@@ -33,6 +33,22 @@
 
 ---
 
+## 🎬 Official Promotional Video
+
+<p align="center">
+  <video src="docs/videos/PostIQ_promo.mp4" width="100%" controls poster="docs/videos/promo_thumbnail.jpg">
+    <a href="docs/videos/PostIQ_promo.mp4">
+      <img src="docs/videos/promo_thumbnail.jpg" alt="Watch PostIQ Promo Video" width="100%" />
+    </a>
+  </video>
+</p>
+
+<p align="center">
+  ▶️ <strong><a href="docs/videos/PostIQ_promo.mp4">Click to Watch the Full PostIQ Promo Video (1:57)</a></strong>
+</p>
+
+---
+
 ## 🚀 Overview
 
 **PostIQ** is an AI-powered social media post auditor that evaluates, scores, and refines content drafts across **7 major platforms** before publishing. Rather than generic advice, PostIQ analyzes algorithmic distribution mechanisms, calculates dimension scores, predicts organic reach, suggests first-frame hook architecture, redrafts copywriting, and adapts hashtags.
